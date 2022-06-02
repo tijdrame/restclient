@@ -1,0 +1,8 @@
+package com.emard.restclient.designpattern.factorypattern.pizzaaf;
+
+public class RedPepper implements Veggies {
+
+	public String toString() {
+		return "Red Pepper";
+	}
+}
